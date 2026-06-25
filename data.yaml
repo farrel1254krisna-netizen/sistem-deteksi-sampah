@@ -1,0 +1,11 @@
+
+path: dataset_yolo
+
+train: train
+val: val
+
+names:
+  0: Hazardous
+  1: Non-Recyclable
+  2: Organic
+  3: Recyclable
