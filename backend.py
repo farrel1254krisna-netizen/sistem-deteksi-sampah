@@ -6,8 +6,6 @@ import io
 
 model = YOLO("best.pt")
 
-# FASTAPI
-API_URL = "http://127.0.0.1:8000/predict"
 app = FastAPI(
     title="Waste Classification API",
     description="API untuk klasifikasi sampah menggunakan YOLOv8",

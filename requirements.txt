@@ -4,4 +4,3 @@ ultralytics
 pillow
 python-multipart
 streamlit
-requests
