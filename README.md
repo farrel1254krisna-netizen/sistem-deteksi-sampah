@@ -6,6 +6,8 @@ Sistem Klasifikasi Sampah adalah aplikasi berbasis Computer Vision yang dirancan
 
 Aplikasi ini menggunakan Streamlit sebagai antarmuka pengguna sekaligus menjalankan proses inferensi model secara langsung. Dengan begitu, aplikasi tidak bergantung pada URL API atau server backend terpisah.
 
+**Live Demo:** https://sistem-deteksi-sampah.streamlit.app/
+
 ---
 
 ## Fitur Utama
